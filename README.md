@@ -14,4 +14,6 @@ This Python ETL loads data from an Wikipedia webpage. It extracts meaningful dat
 - **datetime**: Used to create log progresses.
 
 
-![Transformed Data Frame](https://github.com/LuccaCoelho/Top_Largest_Banks/blob/main/Task_3b_tranform.png)
+## Output Data Frame
+
+i[Transformed Data Frame](https://github.com/LuccaCoelho/Top_Largest_Banks/blob/main/Task_3b_tranform.png)
